@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 + 🧠 I'm working on data science
   
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=linux,py,sklearn,azure,vscode,docker,git,vim,postgres,dotnet,flask,react,vite,figma,redhat,swift,arduino" alt="My Skills" width="800" height="100">
+<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,azure,docker,git,postgres,dotnet,react,figma,redhat,swift,arduino" alt="My Skills" width="800" height="100">
 
 ## 🔗 Social Accounts!
 <p align="left">
