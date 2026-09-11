@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 + 🌍 I'm based in Antalya
 + ✉️ You can contact me at [iuadanur@gmail.com](mailto:iuadanur@gmail.com)
-+ 🧠 I'm working on data science
   
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,azure,docker,git,postgres,dotnet,react,figma,redhat,swift,arduino" alt="My Skills" width="800" height="100">
+<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,java,docker,git,postgres,dotnet,react,figma,redhat,swift,arduino" alt="My Skills" width="800" height="100">
 
 ## 🔗 Social Accounts!
 <p align="left">
